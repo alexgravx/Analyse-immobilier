@@ -13,7 +13,7 @@ Analyse des biens immobiliers d'une ville. Mise en évidence des biens d'excepti
 
 ## 🏗️ Avancement du projet
 
-Evolution des ventes par type selon l'année. Attention les données sont encore incomplètes pour 2022.
+Evolution des ventes par type selon l'année. Attention les données sont encore incomplètes pour 2022. On peut tout de même observer une nette chute en 2020 en raison de la crise du covid.
 
 <img src="results/fig1.jpg" width="800">
 
@@ -25,8 +25,12 @@ Etude approfondie sur le nombre de pièces des biens vendus
 
 <img src="results/fig3.jpg" width="800">
 
-Répartition statistique des biens selon leur prix et leur surface, en fonction de l'année. On note notamment que l'année 
+Répartition statistique des biens selon leur prix et leur surface, en fonction de l'année. On note notamment que de nombreux biens d'exception ont été vendus en 2019 et 2021.
+
 <img src="results/fig4.jpg" width="800">
+
+Visualisation 3D qui permet de visualiser la corrélation nombre de pièces, surface et prix.
+
 <img src="results/fig5.jpg" width="800">
 
 ## Créateur du projet
